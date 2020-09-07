@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     text-align: center;
-    background: url(../image/roadpic.jpg);
+    background: url(roadpic.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;

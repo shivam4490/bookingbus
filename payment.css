@@ -9,7 +9,7 @@
 }
 
 body{
-  background: url("../image/bg.jpg") no-repeat top center;
+  background: url("bg.jpg") no-repeat top center;
   background-size: cover;
   width: 100%;
   height: 100vh;
